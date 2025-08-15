@@ -1,5 +1,5 @@
 body {
-background-color: rgb(204, 13, 70);
+background-color: rgb(0,0,0);
 
 color:rgb(185, 177, 177)
 
@@ -9,4 +9,7 @@ color:rgb(185, 177, 177)
 h1{
 
 color: aliceblue;
+}
+section{
+  background: rgb(184,156,213);
 }
