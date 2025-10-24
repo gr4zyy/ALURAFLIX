@@ -28,7 +28,7 @@ p {
 padding: 50px;
   display:flex;
 overflow-x:auto;
-
+gap: 15px;
 
 
 }
