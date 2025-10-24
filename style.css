@@ -27,7 +27,7 @@ p {
 .categoria-videos {
 padding: 50px;
   display:flex;
-
+overflow-x:auto;
 
 
 
