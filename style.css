@@ -32,3 +32,8 @@ gap: 15px;
 
 
 }
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 3px solid rgb(0, 128, 117);
+}
